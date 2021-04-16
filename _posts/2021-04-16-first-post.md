@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "25 Years later, a blog arrives"
+title:  "First Post"
 date: 2021-04-16 16:12:00 -0000
 ---
 
