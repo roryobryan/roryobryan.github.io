@@ -1,2 +1,4 @@
 title: Rory O'Bryan
 theme: jekyll-theme-cayman
+include:
+ - _pages
